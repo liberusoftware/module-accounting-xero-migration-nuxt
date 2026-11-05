@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-xero-migration-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-xero-migration",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-xero-migration-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/xero-migration.md",
+  "presentationPlan": "projects/accounting/nuxt/xero-migration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
